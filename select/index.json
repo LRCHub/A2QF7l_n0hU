@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "シェリー",
+  "base_artist": "Yutaka Ozaki",
+  "createdAt": "2025-12-02T09:00:50.521536Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シェリー",
+      "artist": "Junko Ohashi",
+      "has_synced": false,
+      "path": "select/01_シェリー_Junko_Ohashi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シェリー",
+      "artist": "LUCKY TAPES",
+      "has_synced": true,
+      "path": "select/02_シェリー_LUCKY_TAPES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シェリー",
+      "artist": "大橋純子",
+      "has_synced": false,
+      "path": "select/03_シェリー_大橋純子.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シェリー",
+      "artist": "Yutaka Ozaki",
+      "has_synced": true,
+      "path": "select/04_シェリー_Yutaka_Ozaki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シェリー",
+      "artist": "尾崎豊",
+      "has_synced": true,
+      "path": "select/05_シェリー_尾崎豊.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シェリー モン シェリ",
+      "artist": "Wink",
+      "has_synced": true,
+      "path": "select/06_シェリー_モン_シェリ_Wink.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シェリー",
+      "artist": "Yutaka Ozaki",
+      "has_synced": true,
+      "path": "select/07_シェリー_Yutaka_Ozaki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シェリー",
+      "artist": "尾崎豊",
+      "has_synced": true,
+      "path": "select/08_シェリー_尾崎豊.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "シェリー モン シェリ",
+      "artist": "Wink",
+      "has_synced": true,
+      "path": "select/09_シェリー_モン_シェリ_Wink.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "シェリー モン シェリ",
+      "artist": "Wink",
+      "has_synced": false,
+      "path": "select/10_シェリー_モン_シェリ_Wink.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "シェリー",
+      "artist": "尾崎 豊",
+      "has_synced": true,
+      "path": "select/11_シェリー_尾崎_豊.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "シェリー",
+      "artist": "尾崎 豊",
+      "has_synced": true,
+      "path": "select/12_シェリー_尾崎_豊.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シェリー",
+      "artist": "尾崎 豊",
+      "has_synced": false,
+      "path": "select/pl_01_シェリー_尾崎_豊.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "シェリー",
+      "artist": "尾崎 豊",
+      "has_synced": false,
+      "path": "select/pl_02_シェリー_尾崎_豊.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "シェリー",
+      "artist": "尾崎 豊",
+      "has_synced": false,
+      "path": "select/pl_03_シェリー_尾崎_豊.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "シェリー",
+      "artist": "尾崎 豊",
+      "has_synced": false,
+      "path": "select/pl_04_シェリー_尾崎_豊.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "シェリー",
+      "artist": "尾崎 豊",
+      "has_synced": false,
+      "path": "select/pl_05_シェリー_尾崎_豊.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "シェリー",
+      "artist": "尾崎 豊",
+      "has_synced": false,
+      "path": "select/pl_06_シェリー_尾崎_豊.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "シェリー",
+      "artist": "尾崎 豊",
+      "has_synced": false,
+      "path": "select/pl_07_シェリー_尾崎_豊.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "シェリー",
+      "artist": "尾崎 豊",
+      "has_synced": false,
+      "path": "select/pl_08_シェリー_尾崎_豊.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "シェリー",
+      "artist": "尾崎 豊",
+      "has_synced": false,
+      "path": "select/pl_09_シェリー_尾崎_豊.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Shelly",
+      "artist": "尾崎 豊",
+      "has_synced": false,
+      "path": "select/pl_10_Shelly_尾崎_豊.txt"
+    }
+  ]
+}
